@@ -1,0 +1,117 @@
+Angular
+..................................
+Chrome Exentensions
+https://chrome.google.com/webstore/detail/angular-performance/hejbpbhdhhchmmcgmccpnngfedalkmkm?hl=en
+
+Articles
+1). Optimizing the Performance of Your Angular Application
+https://netbasal.com/optimizing-the-performance-of-your-angular-application-f222f1c16354
+
+2). 7 Angular Tools That You Should Consider
+https://blog.mgechev.com/2017/04/23/angular-tooling-codelyzer-angular-cli-ngrev/
+
+3). 44 quick tips to fine-tune Angular performance
+https://medium.com/@spp020/44-quick-tips-to-fine-tune-angular-performance-9f5768f5d945
+
+4). AiA 199: RxJS with Ben Lesh, Tracy Lee, and Jay Phelps
+https://devchat.tv/adv-in-angular/aia-199-rxjs-with-ben-lesh-tracy-lee-and-jay-phelps/
+
+5). 2.5X Smaller Angular 2 Applications with Google Closure Compiler
+ https://blog.mgechev.com/2016/07/21/even-smaller-angular2-applications-closure-tree-shaking/
+
+6). Building an Angular Application for Production
+https://blog.mgechev.com/2016/06/26/tree-shaking-angular2-production-build-rollup-javascript/
+
+7). Monitoring JavaScript Memory
+https://trackjs.com/blog/monitoring-javascript-memory/
+
+8). JavaScript Profiling With The Chrome Developer Tools
+https://www.smashingmagazine.com/2012/06/javascript-profiling-chrome-developer-tools/
+
+9). How to Use the Allocation Profiler Tool
+https://developers.google.com/web/tools/chrome-devtools/memory-problems/allocation-profiler
+
+10). 5 Tips for Fixing a Memory Leak in Angular
+https://medium.com/ag-grid/5-tips-for-fixing-a-memory-leak-in-angular-debfc9ef9821
+
+11). Chrome DevTools
+ https://developers.google.com/web/tools/chrome-devtools/
+
+12). Angular Runtime Performance Guide September 19, 2017, by Paul Spears in Angular
+https://blog.oasisdigital.com/2017/angular-runtime-performance-guide/
+
+13). How To Write Fast, Memory-Efficient JavaScript
+https://www.smashingmagazine.com/2012/11/writing-fast-memory-efficient-javascript/
+
+14). Write Fast, Memory-Efficient JavaScript
+http://adarshsomasundar.in/write-fast-memory-efficient-javascript/
+
+15). Writing Fast, Memory-Efficient JavaScript
+https://addyosmani.com/blog/writing-fast-memory-efficient-javascript/
+
+16). Writing Fast, Memory-Efficient JavaScript
+https://www.oreilly.com/library/view/understanding-advanced-javascript/9783943075601/chapter-7.xhtml
+
+17). Beyond Memory Leaks in JavaScript
+https://medium.com/outsystems-experts/beyond-memory-leaks-in-javascript-d27fd48ae67e
+
+18. Fix Memory Problems
+https://developers.google.com/web/tools/chrome-devtools/memory-problems/?utm_source=dcc&utm_medium=redirect&utm_campaign=2016q3
+
+19. Taming The Unicorn: Easing JavaScript Memory Profiling In Chrome DevTools
+https://addyosmani.com/blog/taming-the-unicorn-easing-javascript-memory-profiling-in-devtools/
+
+20. Clean Code Checklist in Angular
+https://itnext.io/clean-code-checklist-in-angular-%EF%B8%8F-10d4db877f74
+
+Github
+1). Angular Performance Checklist 
+https://github.com/mgechev/angular-performance-checklist/blob/master/readme.md
+
+2). Experimental Angular developer tools https://augury.rangle.io
+https://github.com/rangle/augury-labs
+
+3). Notes and resources related to v8 and thus Node.js performance
+https://github.com/thlorenz/v8-perf
+
+4). V8 memory mysteries (sample app)
+https://github.com/addyosmani/memory-mysteries
+
+Youtube
+1). JavaScript Memory & Processing Profiling In Chrome
+ https://www.youtube.com/watch?v=KKwmdTByxLk
+
+ 2). Memory Management Masterclass with Addy Osmani
+ https://www.youtube.com/watch?v=LaxbdIyBkL0
+
+ 3). Anirudh Sanjeev - Understand, find, prevent and fix memory leaks in JavaScript
+ https://www.youtube.com/watch?v=CRoR_0K586I
+
+ 4). He's Dead Jim: Finding JS Memory Leaks with Chrome Dev Tools
+ https://www.youtube.com/watch?v=RJRbZdtKmxU
+
+ PPT
+ 1). JavaScript Memory Management Masterclass
+ https://speakerdeck.com/addyosmani/javascript-memory-management-masterclass?slide=131
+
+ Stackoverflow
+ 1). What is the best way to declare a global variable in Angular 2 / Typescript [closed]
+ https://stackoverflow.com/questions/36158848/what-is-the-best-way-to-declare-a-global-variable-in-angular-2-typescript
+
+ 2). Angular/RxJs When should I unsubscribe from `Subscription`
+ https://stackoverflow.com/questions/38008334/angular-rxjs-when-should-i-unsubscribe-from-subscription/42695571#answer-41177163
+
+3). How to measure DOM rendering time Angular 2 app?
+https://stackoverflow.com/questions/42282546/how-to-measure-dom-rendering-time-angular-2-app 
+
+4). Angular 4 performance & stress test
+https://stackoverflow.com/questions/46975273/angular-4-performance-stress-test
+
+5). Angular: plugin or a tool for memory view
+https://stackoverflow.com/questions/49184148/angular-plugin-or-a-tool-for-memory-view
+
+6). Angular 5 app slowness
+https://stackoverflow.com/questions/49368289/angular-5-app-slowness
+
+7). Is there any Angular 4 Performance tool like react-perf for React Application?
+https://stackoverflow.com/questions/47731977/is-there-any-angular-4-performance-tool-like-react-perf-for-react-application
